@@ -15,4 +15,9 @@ menu:
 
 
 
+## Dapr
+
+
+
+[Configuration API Building Block](https://github.com/dapr/dapr/issues/2941)
 

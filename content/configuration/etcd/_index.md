@@ -1,14 +1,12 @@
 ---
 type: docs
-title: "基础代码的源码学习"
-linkTitle: "基础代码"
-weight: 300
-date: 2021-02-27
+title: "etcd"
+linkTitle: "etcd"
+weight: 3000
+date: 2021-03-22
 description: >
-  Dapr 基础代码的源码学习
+  etcd 调研
 ---
 
-基础代码是 Dapr 代码中最基础的部分，这些代码已经是 dapr 自身逻辑的组成部分，但处于比较偏底层，也不是 dapr 的主要链路，通常代码量也不大。
 
- 基础代码在依赖关系中位于工具类代码和类库类代码之上。
 
